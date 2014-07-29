@@ -1,7 +1,7 @@
 === WPsite Simple Ad Spot ===
 Contributors: wpsitenet, kjbenk, charliepatel
 Donate link: 
-Tags: ad widget, advertisement, adsense, openx, google ads, google adsense, image ad, image advertisement, ad plugin, advertisement widget, openx, google ads, google adsense, 
+Tags: ad widget, advertisement, adsense, openx, google ads, google adsense, image ad, image advertisement, ad plugin, advertisement widget, openx, google ads, google adsense
 Requires at least: 3.8
 Tested up to: 3.9.1
 Stable tag: 1.0
