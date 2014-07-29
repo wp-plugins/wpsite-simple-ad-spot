@@ -23,7 +23,7 @@ Simple Ad Spot is an extremely lightweight plugin that allows you to do the foll
 
 This is great plugin for sites that use ad scripts or places image ads. Most importantly, it helps site owners avoid having to write their own HTML or code simply to place an advertisement on their site. 
 
-For more details, visit the [http://www.wpsite.net](WordPress Site Plugins) page for more information.
+For more details, visit the [WordPress Site Plugins](http://www.wpsite.net) page for more information.
 
 == Installation ==
 
